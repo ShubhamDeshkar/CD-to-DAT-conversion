@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+
+rm -f  out.wav
+../util/driver_flat.exe cd.wav coefs1.txt coefs2.txt coefs3.txt out-dat.wav > diagnostics.txt
+cat out.txt 2>err.txt

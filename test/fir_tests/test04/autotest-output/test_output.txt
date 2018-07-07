@@ -1,0 +1,10 @@
+Tests started on:
+Sun Oct  9 14:37:41 EDT 2016
+-----------------------------------------------------
+Test result for:
+/homes/vhemchan/project1-cd2dat/test/fir_tests/test04
+-----------------------------------------------------
+Error comparison result for: 
+/homes/vhemchan/project1-cd2dat/test/fir_tests/test04
+Tests completed on:
+Sun Oct  9 14:37:41 EDT 2016

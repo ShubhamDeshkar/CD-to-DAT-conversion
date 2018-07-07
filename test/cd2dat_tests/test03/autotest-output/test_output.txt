@@ -1,0 +1,11 @@
+Tests started on:
+Sun Oct  9 22:15:42 EDT 2016
+-----------------------------------------------------
+Test result for:
+/homes/vhemchan/project1-cd2dat/test/cd2dat_tests/test03
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/homes/vhemchan/project1-cd2dat/test/cd2dat_tests/test03
+Tests completed on:
+Sun Oct  9 22:15:52 EDT 2016

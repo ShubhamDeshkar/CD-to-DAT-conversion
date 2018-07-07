@@ -1,0 +1,3 @@
+Test count: 1; test failures: 1; error output mismatches: 0
+Test failures: 
+/homes/vhemchan/project1-cd2dat/test/cd2dat_tests/test03
